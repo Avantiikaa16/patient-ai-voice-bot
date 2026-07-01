@@ -1,0 +1,22 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 18:26:53
+Scenario  : cost_and_billing_question
+Patient   : Kevin Patel
+Goal      : Find out the cost of a routine checkup without insurance
+Call SID  : CAe3f878df5f3bea11c244e46205de1b67
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good a Am I speaking with Sarah? Hello. Thanks for calling PivotPoint Orthopedics. Is this Sarah? How can I help you today?
+
+[PATIENT]: Hi, no, I'm actually Kevin Patel. I'm calling to, um, inquire about the cost of a routine checkup, and I don't have insurance, so I was wondering if you could tell me the self-pay price for a new patient visit?
+
+[AGENT  ]: Thanks for letting me know. Kevin, I don't have access to exact pricing details for visits. For the most accurate information about the cost of a routine checkup as a new patient without insurance, Our clinic support team can help. Would you like me to connect you to them now?
+
+[PATIENT]: That sounds great, yeah, I'd appreciate that. Can you, uh, transfer me to the clinic support team, please? I'd like to get a better idea of the costs involved before I book an appointment.
+
+[AGENT  ]: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+[PATIENT]: Okay, thank you anyway, goodbye
+

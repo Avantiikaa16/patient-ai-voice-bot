@@ -1,0 +1,65 @@
+{
+  "session_id": "call_09_weekend_scheduling_edge_case",
+  "call_sid": "CAf86c3753b7084b50c82f3f307ece0a9d",
+  "scenario": {
+    "name": "weekend_scheduling_edge_case",
+    "persona": "Thomas Anderson",
+    "goal": "Try to book an appointment for this Sunday at 10am",
+    "context": "Does not know the office schedule",
+    "personality": "Polite but persistent, keeps trying different times when told no",
+    "notes": "First ask for Sunday. If told no, try Saturday. Then ask what the earliest available Monday morning slot is. Document how the agent handles closed days."
+  },
+  "start_time": "2026-06-30T18:19:26.741555",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah? Hello. Thanks for calling Pivot Point Orthopedics. Is this Sarah? How can I help you today?",
+      "timestamp": "2026-06-30T18:19:53.565237"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, no, my name is Thomas Anderson. I'm calling to book an appointment, actually. I was wondering if I could get in this Sunday at 10am?",
+      "timestamp": "2026-06-30T18:19:53.907731"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please provide the full name and date of birth of the patient you'd like to book the appointment for. Can you please provide your full name and date of birth?",
+      "timestamp": "2026-06-30T18:20:22.306040"
+    },
+    {
+      "speaker": "patient",
+      "text": "My full name is Thomas Edward Anderson, and my date of birth is, let me think, March 12th, 1985.",
+      "timestamp": "2026-06-30T18:20:22.605180"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your name as Thomas Anderson and your date of birth as 03/12/1985. Is that correct? If so, please spell your last name for me.",
+      "timestamp": "2026-06-30T18:20:47.914474"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct. And my last name is A-N-D-E-R-S-O-N. Now, about that appointment, can I still get in this Sunday at 10am?",
+      "timestamp": "2026-06-30T18:20:48.339575"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't book an appointment for you right now, but I can connect you to our patient support team. Please stay on the line while I transfer your call. Connecting you to a representative. Please wait.",
+      "timestamp": "2026-06-30T18:21:15.328467"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you, I'll wait.",
+      "timestamp": "2026-06-30T18:21:15.727364"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. You've reached goodbye.",
+      "timestamp": "2026-06-30T18:21:19.903455"
+    },
+    {
+      "speaker": "patient",
+      "text": "I think there might have been a mistake, I was just transferred to someone to book an appointment. Could you please help me with that? I was looking to schedule something for this Sunday at 10am.",
+      "timestamp": "2026-06-30T18:21:20.346901"
+    }
+  ]
+}

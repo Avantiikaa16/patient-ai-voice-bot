@@ -1,0 +1,46 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 17:44:48
+Scenario  : routine_checkup
+Patient   : Sarah Johnson
+Goal      : Schedule a routine annual physical checkup
+Call SID  : CA963d5f30f88680251a01490db543ca13
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thank you for calling PivotPoint Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.
+
+[PATIENT]: Um, no, I don't think that's necessary, I'm actually an existing patient. My name is Sarah Johnson, and I've been coming here for a few years now. Can I just schedule an appointment instead?
+
+[AGENT  ]: Since I don't have your profile in the system yet, I'll need to create a demo patient profile before we can schedule your appointment. May I have your first and last name to get started? I understand, Sarah. Right now, I don't see your profile in the system. So I'll need to create a demo patient profile before scheduling. Can I get your first and last name to set that up?
+
+[PATIENT]: You already have my name, it's Sarah Johnson, but let me confirm, I've been coming here for about 3 years, so I'm a bit surprised I'm not in the system.
+
+[AGENT  ]: Your patient profile is set up and your date of birth is 07/04/2000 for demo purposes. How may I help you today?
+
+[PATIENT]: Oh right, actually, I'd like to schedule a routine annual physical checkup, and if possible, I'd prefer a morning appointment.
+
+[AGENT  ]: Thanks for the next available appointment for a routine annual physical checkup is with Zee Biggny Lukowski. MD, on Monday, July 6 at 03:30PM. Would you like to book this slot, or would you prefer to look for a morning appointment on a different day?
+
+[PATIENT]: Um, actually, I was really hoping for a morning slot, so could you check if there's anything available earlier in the day, maybe with Dr. Lukowski or another doctor, on a different day?
+
+[AGENT  ]: The soonest avail
+
+[PATIENT]: Let me just wait for you to finish, you were saying the soonest available...?
+
+[AGENT  ]: No problem. Take your time. Let me know when you're ready to look at more appointment options.
+
+[PATIENT]: Okay, thanks for waiting, so you were about to tell me about the soonest available morning appointment, could you go ahead and finish that?
+
+[AGENT  ]: Right now, the soonest available appointment is Monday, July 6. At 03:30PM with Zeebigniew Lukowski MD. There aren't any morning slots open that week. Would you like to look at later day for a morning appointment, or does this afternoon slot work for you? The soonest available appointment is Monday, July 6 at 03:30PM. With Zibbigniew Lukoski, MD. There are no morning slots open that week. Would you like me to check the following week for morning availability?
+
+[PATIENT]: Yeah, that afternoon slot is a bit late for me, so could you please check the following week for morning availability, and let me know what you find?
+
+[AGENT  ]: Here are the suitest morning options for next week. On Thursday, July 9, Kelly Noble, MD, has openings at 10:30, eleven, and 11:30AM. Would you like to book one of these or hear about other days?
+
+[PATIENT]: That sounds great, actually. I think I'd like to book the 10:30 AM slot with Dr. Noble on Thursday, July 9, can you confirm that for me?
+
+[AGENT  ]: Your annual physical is booked for Thursday, July 9 at 10:30AM with doctor Kelly Noble at Pivot Point Orthopedics. Please bring your photo ID, insurance card, list of your current medications, and any imaging discs you have. Is there anything else I can help you with?
+
+[PATIENT]: No, that's all, thank you so much for your help, I've got everything I need, so thank you, goodbye
+

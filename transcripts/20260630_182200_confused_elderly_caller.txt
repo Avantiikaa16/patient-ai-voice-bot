@@ -1,0 +1,54 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 18:22:00
+Scenario  : confused_elderly_caller
+Patient   : Betty Garcia
+Goal      : Schedule an appointment but gives confusing information along the way
+Call SID  : CA954032c1d3c44b3e6ed9b2c4487f8861
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good a am I speaking with Sarah? Hello. Thanks for calling PivotPoint Orthopedics. Is this Sarah? How can I help you today?
+
+[PATIENT]: Um, no, I'm not Sarah, I'm Betty Garcia, and I'm calling to make an appointment, actually, I think I need to see the doctor on, let me think, Tuesday...
+
+[AGENT  ]: Thanks for letting me know, Betty. Are you calling to make this appointment for yourself or for someone else?
+
+[PATIENT]: It's for myself, and, oh, wait, I just remembered, I meant Thursday, not Tuesday, um, I get those days mixed up sometimes, you know, my grandkids are always visiting on Thursdays...
+
+[AGENT  ]: No problem, Betty. You please tell me your full name and date of birth so I can look up your information?
+
+[PATIENT]: My name is Betty Jean Garcia, and, let me see... my birthday is, um, June 12th, 1947, I think, oh dear, I hope that's right, now, about that appointment on Thursday...
+
+[AGENT  ]: Just to confirm, I have your name as Betty Jean Garcia and your date of birth as 06/12/1947. Is that correct? If so, we can move forward. If not, could you please spell your full name and confirm your date of birth?
+
+[PATIENT]: Yes, that's correct, dear, I'm sure of it, now, can we please schedule that appointment for Thursday, I'd like to see, um, which doctor was I supposed to see again, I had it written down somewhere...
+
+[AGENT  ]: Thank you, Betty. Let me check your chart and find your provider and available appointments for Thursday. One moment.
+
+[PATIENT]: Okay, thank you, dear, I'll wait, and, oh, I just thought of something, I hope my appointment isn't too early, I have to take my medication in the morning, you see...
+
+[AGENT  ]: I understand, Betty. I'll look for Thursday appointments later in the morning so you have time for your medication. Let me check what's available.
+
+[PATIENT]: That would be wonderful, thank you, now, let me think, what time was I thinking, oh yes, after 10 am would be perfect, I hope that's okay, and can you tell me what time the doctor can see me on Thursday?
+
+[AGENT  ]: Let me check for Thursday appointments after 10AM with your doctor. One moment.
+
+[PATIENT]: Okay, dear, take your time, I'm not in a hurry, oh, and I just remembered, my grandkids are coming over for dinner on Thursday, but that's later, around 5 pm, so anytime before that would be fine...
+
+[AGENT  ]: Thanks for letting me know, buddy. I'll look for Thursday appointment appointments after 10AM and before 5PM. Let me find the available times for you.
+
+[PATIENT]: Thank you, sweetie, you're very helpful, now, let me see... I think I'd like to schedule it for, um, 2 o'clock, no, wait, that's when my grandkids are coming, how about 11 am, would that work?
+
+[AGENT  ]: Let me check if there's an opening at 11AM on Thursday for you. One moment.
+
+[PATIENT]: Okay, thank you, dear, I'll wait, and, oh, I hope that time works, I'd really like to get this appointment scheduled, yes, 11 am on Thursday would be just perfect...
+
+[AGENT  ]: Let me confirm if 11AM on Thursday is available for you, Betty. One moment.
+
+[PATIENT]: Yes, dear, take your time, I'm still here, and, oh, I just wanted to confirm, you did say 11 am on Thursday, right, I don't want to get it mixed up again...
+
+[AGENT  ]: Yes, Betty. You asked for 11AM on Thursday. I'm checking if that time is available for your appointment.
+
+[PATIENT]: Okay, thank you, dear, I think that's all set then, so 11 am on Thursday it is, right, I can come in at 11 am, and, oh, thank you so much for your help, dear, goodbye!
+

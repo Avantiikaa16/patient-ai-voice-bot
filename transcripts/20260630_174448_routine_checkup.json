@@ -1,0 +1,105 @@
+{
+  "session_id": "call_00_routine_checkup",
+  "call_sid": "CA963d5f30f88680251a01490db543ca13",
+  "scenario": {
+    "name": "routine_checkup",
+    "persona": "Sarah Johnson",
+    "goal": "Schedule a routine annual physical checkup",
+    "context": "Regular patient, been coming here for 3 years, healthy overall",
+    "personality": "Friendly, organized, knows what she wants",
+    "notes": "Ask for a morning slot if possible. Confirm date, time, and doctor name."
+  },
+  "start_time": "2026-06-30T17:44:48.378159",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thank you for calling PivotPoint Orthopedics. Would you like to create a demo patient profile? I just need your first and last name to get started.",
+      "timestamp": "2026-06-30T17:45:03.777460"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, no, I don't think that's necessary, I'm actually an existing patient. My name is Sarah Johnson, and I've been coming here for a few years now. Can I just schedule an appointment instead?",
+      "timestamp": "2026-06-30T17:45:04.537406"
+    },
+    {
+      "speaker": "agent",
+      "text": "Since I don't have your profile in the system yet, I'll need to create a demo patient profile before we can schedule your appointment. May I have your first and last name to get started? I understand, Sarah. Right now, I don't see your profile in the system. So I'll need to create a demo patient profile before scheduling. Can I get your first and last name to set that up?",
+      "timestamp": "2026-06-30T17:45:48.402075"
+    },
+    {
+      "speaker": "patient",
+      "text": "You already have my name, it's Sarah Johnson, but let me confirm, I've been coming here for about 3 years, so I'm a bit surprised I'm not in the system.",
+      "timestamp": "2026-06-30T17:45:48.962918"
+    },
+    {
+      "speaker": "agent",
+      "text": "Your patient profile is set up and your date of birth is 07/04/2000 for demo purposes. How may I help you today?",
+      "timestamp": "2026-06-30T17:46:20.985200"
+    },
+    {
+      "speaker": "patient",
+      "text": "Oh right, actually, I'd like to schedule a routine annual physical checkup, and if possible, I'd prefer a morning appointment.",
+      "timestamp": "2026-06-30T17:46:21.371886"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for the next available appointment for a routine annual physical checkup is with Zee Biggny Lukowski. MD, on Monday, July 6 at 03:30PM. Would you like to book this slot, or would you prefer to look for a morning appointment on a different day?",
+      "timestamp": "2026-06-30T17:46:57.544469"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, actually, I was really hoping for a morning slot, so could you check if there's anything available earlier in the day, maybe with Dr. Lukowski or another doctor, on a different day?",
+      "timestamp": "2026-06-30T17:46:58.116858"
+    },
+    {
+      "speaker": "agent",
+      "text": "The soonest avail",
+      "timestamp": "2026-06-30T17:47:09.570776"
+    },
+    {
+      "speaker": "patient",
+      "text": "Let me just wait for you to finish, you were saying the soonest available...?",
+      "timestamp": "2026-06-30T17:47:09.937002"
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem. Take your time. Let me know when you're ready to look at more appointment options.",
+      "timestamp": "2026-06-30T17:47:26.952114"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thanks for waiting, so you were about to tell me about the soonest available morning appointment, could you go ahead and finish that?",
+      "timestamp": "2026-06-30T17:47:27.432132"
+    },
+    {
+      "speaker": "agent",
+      "text": "Right now, the soonest available appointment is Monday, July 6. At 03:30PM with Zeebigniew Lukowski MD. There aren't any morning slots open that week. Would you like to look at later day for a morning appointment, or does this afternoon slot work for you? The soonest available appointment is Monday, July 6 at 03:30PM. With Zibbigniew Lukoski, MD. There are no morning slots open that week. Would you like me to check the following week for morning availability?",
+      "timestamp": "2026-06-30T17:48:17.630666"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, that afternoon slot is a bit late for me, so could you please check the following week for morning availability, and let me know what you find?",
+      "timestamp": "2026-06-30T17:48:18.438551"
+    },
+    {
+      "speaker": "agent",
+      "text": "Here are the suitest morning options for next week. On Thursday, July 9, Kelly Noble, MD, has openings at 10:30, eleven, and 11:30AM. Would you like to book one of these or hear about other days?",
+      "timestamp": "2026-06-30T17:48:46.271004"
+    },
+    {
+      "speaker": "patient",
+      "text": "That sounds great, actually. I think I'd like to book the 10:30 AM slot with Dr. Noble on Thursday, July 9, can you confirm that for me?",
+      "timestamp": "2026-06-30T17:48:46.731775"
+    },
+    {
+      "speaker": "agent",
+      "text": "Your annual physical is booked for Thursday, July 9 at 10:30AM with doctor Kelly Noble at Pivot Point Orthopedics. Please bring your photo ID, insurance card, list of your current medications, and any imaging discs you have. Is there anything else I can help you with?",
+      "timestamp": "2026-06-30T17:49:17.146223"
+    },
+    {
+      "speaker": "patient",
+      "text": "No, that's all, thank you so much for your help, I've got everything I need, so thank you, goodbye",
+      "timestamp": "2026-06-30T17:49:17.521038"
+    }
+  ]
+}

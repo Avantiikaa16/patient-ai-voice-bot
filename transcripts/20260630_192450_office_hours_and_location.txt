@@ -1,0 +1,22 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 19:24:50
+Scenario  : office_hours_and_location
+Patient   : David Kim
+Goal      : Get the office hours and address, and ask about parking
+Call SID  : CA6f28fadbfff7127cca624c4d5b641133
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah? Hello. Thanks for calling PivotPoint Orthopedics. Is this Sarah? How can I help you today?
+
+[PATIENT]: Hi, no, I'm actually, um, David Kim. I'm calling because I'm considering becoming a new patient at your practice, and I was wondering if you could tell me a bit about your office hours, specifically if you have any Saturday or evening hours available?
+
+[AGENT  ]: Hi, David. Pivot Point Orthopedics is open Monday through Friday. We do not have Saturday hours. Our latest appointments are on Wednesdays when we're open until 7PM. Would you like more details about our providers or scheduling?
+
+[PATIENT]: That's helpful, thanks. So, you're open till 7 PM on Wednesdays, that's good to know. Can you also tell me what your address is, and, um, what's the parking situation like around your office?
+
+[AGENT  ]: Our clinic is located at 1234 Recovery Way, Suite 200, Austin. We have free patient parking available in the surface lot right in front of the building. If you need more details about getting here or anything else, just let me know.
+
+[PATIENT]: Okay, got it, 1234 Recovery Way, Suite 200, that's easy to remember. And free parking in the front lot is great, that's a big plus. I think that's all the info I needed, thanks for your help, I appreciate it, thank you, goodbye
+

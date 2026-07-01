@@ -1,0 +1,22 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 22:39:22
+Scenario  : new_patient
+Patient   : James Wilson
+Goal      : Become a new patient and schedule an initial appointment
+Call SID  : CAbd38156f410e3c4d4260089992c3dc9b
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedic. Part of Pretty Good how may I help you today? Hello. Thanks for calling PivotPoint Orthopedic How can I help you today?
+
+[PATIENT]: Hi, thanks for answering. I'm actually looking for a new primary care doctor since I just moved to the area, and I was wondering if you guys offer general practice services or if you're strictly orthopedic?
+
+[AGENT  ]: EditPoint Orthopedics focuses on orthopedic care, treating joint, muscle, and bone conditions. We don't offer general primary care or family medicine services. If you need help with orthopedic issues or physical therapy, we'd be happy to help. Would you like more information about our services or providers? We're strictly an orthopedic clinic, so we focus on joint, muscle, and bone care. Not general primary care. If you need help with orthopedic issues or physical therapy, we can help with that. Would you like to hear more about our services or provide
+
+[PATIENT]: Okay, that makes sense, um, I think I might have misread the name of the practice. Since you don't do general primary care, I'll probably need to look elsewhere for a doctor, but out of curiosity, do you have any recommendations for primary care physicians in the area?
+
+[AGENT  ]: I'm not able to recommend specific primary care doctors or clinics. You might try searching online or checking with your insurance provider for options nearby. If you ever need orthopedic care, we're here to help. I can't recommend specific primary care doctors, but you can check with your insurance provider or search online for options in your area. If you ever need orthopedic care, feel free to reach out to us.
+
+[PATIENT]: Okay, thank you anyway, I appreciate the suggestion to check with my insurance provider, I'll probably do that, goodbye
+

@@ -1,0 +1,115 @@
+{
+  "session_id": "call_01_medication_refill",
+  "call_sid": "CAb34aafe4814a5e0da52db4fff2d89034",
+  "scenario": {
+    "name": "medication_refill",
+    "persona": "Robert Martinez",
+    "goal": "Request a refill for lisinopril, a blood pressure medication",
+    "context": "Patient with hypertension on this medication for 2 years, running low",
+    "personality": "Older man, slightly hard of hearing, speaks slowly, may ask to repeat",
+    "notes": "Mention you have about 5 pills left. Ask how long it will take for the refill."
+  },
+  "start_time": "2026-06-30T17:49:51.305671",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah? Hello. Thanks for calling Pivot Point Orthopaedics. Is this Sarah? How can I help you today?",
+      "timestamp": "2026-06-30T17:50:18.203031"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, no, my name's Robert Martinez, and I'm calling about a medication refill, actually. I'm running low on my lisinopril, got about 5 pills left, and I was wondering if I could get that refilled, please?",
+      "timestamp": "2026-06-30T17:50:18.855370"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please provide the full name and date of birth of the patient needing the refill.",
+      "timestamp": "2026-06-30T17:50:40.099571"
+    },
+    {
+      "speaker": "patient",
+      "text": "My full name is Robert Anthony Martinez, and my date of birth is... let me think... July 12, 1947. Can you, uh, repeat that back to me to make sure you got it right?",
+      "timestamp": "2026-06-30T17:50:40.599143"
+    },
+    {
+      "speaker": "agent",
+      "text": "I have your name as Robert Anthony Martinez and your date of birth as 07/12/1947. Is that correct? Just to confirm, could you please spell out your first and last name for me?",
+      "timestamp": "2026-06-30T17:51:23.457585"
+    },
+    {
+      "speaker": "patient",
+      "text": "That's correct, yeah... My first name's Robert, that's R-O-B-E-R-T, and my last name's Martinez, that's M-A-R-T-I-N-E-Z. Now, about that lisinopril refill...",
+      "timestamp": "2026-06-30T17:51:23.958052"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. Could you also spell out your first name for me? Thanks for spelling your last name. Could you please spell out your first name as well?",
+      "timestamp": "2026-06-30T17:51:55.970009"
+    },
+    {
+      "speaker": "patient",
+      "text": "I already did, um, I think... My first name's Robert, R-O-B-E-R-T, did I not just say that? Anyway, yeah, that's it, R-O-B-E-R-T. Now, can we talk about getting my medication refilled?",
+      "timestamp": "2026-06-30T17:51:56.590803"
+    },
+    {
+      "speaker": "agent",
+      "text": "To help with your refill, can you tell me the phone number you have on file with us? If you're not sure, I can confirm your name and date of birth again. Which would you prefer?",
+      "timestamp": "2026-06-30T17:52:23.987477"
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, let me think... I'm not really sure what phone number I have on file, actually. You already confirmed my name and date of birth, so that's okay. Just, uh, go ahead and use the number I'm calling from, I guess, if that's possible.",
+      "timestamp": "2026-06-30T17:52:24.819027"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let's confirm your details one more time to be sure. Please spell out your first and last name and confirm your date of birth.",
+      "timestamp": "2026-06-30T17:52:51.423072"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay... My first name's Robert, that's R-O-B-E-R-T, and my last name's Martinez, that's M-A-R-T-I-N-E-Z. And my date of birth is July 12, 1947. Now, about that lisinopril refill, how long's it gonna take to get it filled?",
+      "timestamp": "2026-06-30T17:52:51.847463"
+    },
+    {
+      "speaker": "agent",
+      "text": "I need your full first and last name spelled out to look up your record before I can check on your refill. Could you please spell both your first and last name for me?",
+      "timestamp": "2026-06-30T17:53:24.150728"
+    },
+    {
+      "speaker": "patient",
+      "text": "My first name, Robert, is R-O-B-E-R-T, and my last name, Martinez, is M-A-R-T-I-N-E-Z. Can you, uh, look up my record now and tell me about getting my lisinopril refilled, please?",
+      "timestamp": "2026-06-30T17:53:24.552273"
+    },
+    {
+      "speaker": "agent",
+      "text": "I have your phone number as (877) 642-9522. And your date of birth as 07/12/1947. Is that correct? I have your phone number as (877) 642-9522. And your date of birth as 07/12/1947. Is that correct?",
+      "timestamp": "2026-06-30T17:54:13.611928"
+    },
+    {
+      "speaker": "patient",
+      "text": "That's... um, yeah, that's correct, I think. The phone number sounds right, and my date of birth is definitely July 12, 1947. Now, can you please tell me how long it'll take to get my lisinopril refilled? I'm running low, like I said.",
+      "timestamp": "2026-06-30T17:54:14.134017"
+    },
+    {
+      "speaker": "agent",
+      "text": "Representative. Please wait.",
+      "timestamp": "2026-06-30T17:54:32.874292"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay... I'll wait.",
+      "timestamp": "2026-06-30T17:54:33.377270"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. You've test line. Goodbye.",
+      "timestamp": "2026-06-30T17:54:37.960482"
+    },
+    {
+      "speaker": "patient",
+      "text": "Wait, what? Okay, thank you anyway, goodbye",
+      "timestamp": "2026-06-30T17:54:38.228347"
+    }
+  ]
+}

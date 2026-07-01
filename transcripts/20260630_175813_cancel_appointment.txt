@@ -1,0 +1,42 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 17:58:13
+Scenario  : cancel_appointment
+Patient   : Michael Brown
+Goal      : Cancel an upcoming appointment because he recovered from his illness
+Call SID  : CA2d449315f544229ddfd104c587e2bb5e
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah? Thanks for calling To The Point Orthopedics. This is Sarah. How can I help you today?
+
+[PATIENT]: Um, actually, I think there's been a mix-up - you just said two different names for the office. But anyway, my name is Michael Brown, and I'm calling to cancel an upcoming appointment I had scheduled, 'cause I'm feeling much better now.
+
+[AGENT  ]: Thanks for letting me know, Michael. Are you calling to cancel your own appointment? Or are you calling for someone else?
+
+[PATIENT]: Yes, it's for myself, I had a sick visit scheduled and, uh, I'm just not needing to come in now since my symptoms have pretty much cleared up, thankfully.
+
+[AGENT  ]: Please provide your date of birth.
+
+[PATIENT]: Let me think... my date of birth is, um, March 12th, 1985.
+
+[AGENT  ]: Date of birth when you're ready.
+
+[PATIENT]: March 12, 1985. Oh, and by the way, is there a cancellation fee I should be aware of since I'm canceling my appointment?
+
+[AGENT  ]: Just to confirm, I have your name as Michael Brown, and your date of birth as 03/12/1985. Is that correct? If so, I'll check on your appointment and the cancellation policy. If not, please spell your first and last name for me.
+
+[PATIENT]: That's correct, yeah, Michael Brown, March 12th, 1985, that's all right. Go ahead and check on that appointment and the cancellation policy, please.
+
+[AGENT  ]: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, just confirm your first and last name by spelling them out along with your date of birth.
+
+[PATIENT]: My first name is M-I-C-H-A-E-L, last name is B-R-O-W-N, and like I said, my date of birth is March 12th, 1985.
+
+[AGENT  ]: Would you like I have your first name as Misha, last name Brown. Date of birth, 03/12/1985, and your phone number is (877) 642-9522. Is all of that correct?
+
+[PATIENT]: No, actually, my first name is Michael, not Misha, so, um, could you please correct that? And, yeah, the rest of the info, date of birth and phone number, that's all correct.
+
+[AGENT  ]: I can't cancel your appointment right now. But I'll make sure our clinic support team follows up with you. Please hold while I document your request. Connecting you to a representative. Please wait.
+
+[PATIENT]: Okay, thank you anyway, goodbye
+

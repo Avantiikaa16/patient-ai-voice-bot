@@ -1,0 +1,30 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 18:19:26
+Scenario  : weekend_scheduling_edge_case
+Patient   : Thomas Anderson
+Goal      : Try to book an appointment for this Sunday at 10am
+Call SID  : CAf86c3753b7084b50c82f3f307ece0a9d
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah? Hello. Thanks for calling Pivot Point Orthopedics. Is this Sarah? How can I help you today?
+
+[PATIENT]: Um, no, my name is Thomas Anderson. I'm calling to book an appointment, actually. I was wondering if I could get in this Sunday at 10am?
+
+[AGENT  ]: Please provide the full name and date of birth of the patient you'd like to book the appointment for. Can you please provide your full name and date of birth?
+
+[PATIENT]: My full name is Thomas Edward Anderson, and my date of birth is, let me think, March 12th, 1985.
+
+[AGENT  ]: Just to confirm, I have your name as Thomas Anderson and your date of birth as 03/12/1985. Is that correct? If so, please spell your last name for me.
+
+[PATIENT]: Yes, that's correct. And my last name is A-N-D-E-R-S-O-N. Now, about that appointment, can I still get in this Sunday at 10am?
+
+[AGENT  ]: I can't book an appointment for you right now, but I can connect you to our patient support team. Please stay on the line while I transfer your call. Connecting you to a representative. Please wait.
+
+[PATIENT]: Okay, thank you, I'll wait.
+
+[AGENT  ]: Hello. You've reached goodbye.
+
+[PATIENT]: I think there might have been a mistake, I was just transferred to someone to book an appointment. Could you please help me with that? I was looking to schedule something for this Sunday at 10am.
+

@@ -1,0 +1,55 @@
+{
+  "session_id": "call_02_reschedule_appointment",
+  "call_sid": "CA7d927faf15dbba466cf28ed0ad2f3beb",
+  "scenario": {
+    "name": "reschedule_appointment",
+    "persona": "Emily Chen",
+    "goal": "Reschedule a Monday appointment to sometime later that week or next week",
+    "context": "Has a work conflict that just came up on Monday",
+    "personality": "Professional, direct, slightly stressed, wants it resolved fast",
+    "notes": "Be clear you need to move the Monday appointment. Ask what slots are available."
+  },
+  "start_time": "2026-06-30T17:55:09.061886",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah? Hello. Thanks for calling Pivot Point Orthopedics. Is this Sarah? How can I help you today?",
+      "timestamp": "2026-06-30T17:55:36.109307"
+    },
+    {
+      "speaker": "patient",
+      "text": "Actually, my name is Emily Chen, and I'm calling to reschedule an appointment that's currently set for Monday - I just had a work conflict come up and I need to move it to a different day, um, can you help me with that?",
+      "timestamp": "2026-06-30T17:55:36.677280"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please provide the full name and date of birth of the patient whose appointment you'd like to reschedule. Can you please provide your full name and date of birth?",
+      "timestamp": "2026-06-30T17:56:12.485801"
+    },
+    {
+      "speaker": "patient",
+      "text": "My full name is Emily Chen, and my date of birth is March 12, 1985 - that's the appointment I need to reschedule, which is currently set for this Monday.",
+      "timestamp": "2026-06-30T17:56:13.017109"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your name as Emily Chen and your date of birth as 03/12/1985. Is that correct? I have your name as Emily Chen, and your date of birth is 03/12/1985. Is that correct?",
+      "timestamp": "2026-06-30T17:56:50.613085"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct, let me think... now that we've confirmed my info, can you tell me what other time slots are available to reschedule my appointment?",
+      "timestamp": "2026-06-30T17:56:51.137033"
+    },
+    {
+      "speaker": "agent",
+      "text": "I have your phone number as (877) 642-9522, and your date of birth is 03/12/1985. Is that correct?",
+      "timestamp": "2026-06-30T17:57:14.442297"
+    },
+    {
+      "speaker": "patient",
+      "text": "That's right, now can we please move on to rescheduling my appointment - I need to find a new time that works, preferably later this week or next week, what options do I have?",
+      "timestamp": "2026-06-30T17:57:14.931325"
+    }
+  ]
+}

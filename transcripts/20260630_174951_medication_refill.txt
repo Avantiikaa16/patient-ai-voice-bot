@@ -1,0 +1,50 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 17:49:51
+Scenario  : medication_refill
+Patient   : Robert Martinez
+Goal      : Request a refill for lisinopril, a blood pressure medication
+Call SID  : CAb34aafe4814a5e0da52db4fff2d89034
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah? Hello. Thanks for calling Pivot Point Orthopaedics. Is this Sarah? How can I help you today?
+
+[PATIENT]: Um, no, my name's Robert Martinez, and I'm calling about a medication refill, actually. I'm running low on my lisinopril, got about 5 pills left, and I was wondering if I could get that refilled, please?
+
+[AGENT  ]: Please provide the full name and date of birth of the patient needing the refill.
+
+[PATIENT]: My full name is Robert Anthony Martinez, and my date of birth is... let me think... July 12, 1947. Can you, uh, repeat that back to me to make sure you got it right?
+
+[AGENT  ]: I have your name as Robert Anthony Martinez and your date of birth as 07/12/1947. Is that correct? Just to confirm, could you please spell out your first and last name for me?
+
+[PATIENT]: That's correct, yeah... My first name's Robert, that's R-O-B-E-R-T, and my last name's Martinez, that's M-A-R-T-I-N-E-Z. Now, about that lisinopril refill...
+
+[AGENT  ]: Thank you. Could you also spell out your first name for me? Thanks for spelling your last name. Could you please spell out your first name as well?
+
+[PATIENT]: I already did, um, I think... My first name's Robert, R-O-B-E-R-T, did I not just say that? Anyway, yeah, that's it, R-O-B-E-R-T. Now, can we talk about getting my medication refilled?
+
+[AGENT  ]: To help with your refill, can you tell me the phone number you have on file with us? If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+
+[PATIENT]: Uh, let me think... I'm not really sure what phone number I have on file, actually. You already confirmed my name and date of birth, so that's okay. Just, uh, go ahead and use the number I'm calling from, I guess, if that's possible.
+
+[AGENT  ]: Let's confirm your details one more time to be sure. Please spell out your first and last name and confirm your date of birth.
+
+[PATIENT]: Okay... My first name's Robert, that's R-O-B-E-R-T, and my last name's Martinez, that's M-A-R-T-I-N-E-Z. And my date of birth is July 12, 1947. Now, about that lisinopril refill, how long's it gonna take to get it filled?
+
+[AGENT  ]: I need your full first and last name spelled out to look up your record before I can check on your refill. Could you please spell both your first and last name for me?
+
+[PATIENT]: My first name, Robert, is R-O-B-E-R-T, and my last name, Martinez, is M-A-R-T-I-N-E-Z. Can you, uh, look up my record now and tell me about getting my lisinopril refilled, please?
+
+[AGENT  ]: I have your phone number as (877) 642-9522. And your date of birth as 07/12/1947. Is that correct? I have your phone number as (877) 642-9522. And your date of birth as 07/12/1947. Is that correct?
+
+[PATIENT]: That's... um, yeah, that's correct, I think. The phone number sounds right, and my date of birth is definitely July 12, 1947. Now, can you please tell me how long it'll take to get my lisinopril refilled? I'm running low, like I said.
+
+[AGENT  ]: Representative. Please wait.
+
+[PATIENT]: Okay... I'll wait.
+
+[AGENT  ]: Hello. You've test line. Goodbye.
+
+[PATIENT]: Wait, what? Okay, thank you anyway, goodbye
+

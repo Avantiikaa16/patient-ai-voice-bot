@@ -1,0 +1,95 @@
+{
+  "session_id": "call_03_cancel_appointment",
+  "call_sid": "CA2d449315f544229ddfd104c587e2bb5e",
+  "scenario": {
+    "name": "cancel_appointment",
+    "persona": "Michael Brown",
+    "goal": "Cancel an upcoming appointment because he recovered from his illness",
+    "context": "Booked for a sick visit but is feeling better now",
+    "personality": "Apologetic and grateful, wants to be polite about canceling",
+    "notes": "Explain you are feeling much better. Ask if there is a cancellation fee."
+  },
+  "start_time": "2026-06-30T17:58:13.638945",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good AI. Am I speaking with Sarah? Thanks for calling To The Point Orthopedics. This is Sarah. How can I help you today?",
+      "timestamp": "2026-06-30T17:58:40.352869"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, actually, I think there's been a mix-up - you just said two different names for the office. But anyway, my name is Michael Brown, and I'm calling to cancel an upcoming appointment I had scheduled, 'cause I'm feeling much better now.",
+      "timestamp": "2026-06-30T17:58:40.897737"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for letting me know, Michael. Are you calling to cancel your own appointment? Or are you calling for someone else?",
+      "timestamp": "2026-06-30T17:59:03.024982"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, it's for myself, I had a sick visit scheduled and, uh, I'm just not needing to come in now since my symptoms have pretty much cleared up, thankfully.",
+      "timestamp": "2026-06-30T17:59:03.599968"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please provide your date of birth.",
+      "timestamp": "2026-06-30T17:59:19.748075"
+    },
+    {
+      "speaker": "patient",
+      "text": "Let me think... my date of birth is, um, March 12th, 1985.",
+      "timestamp": "2026-06-30T17:59:20.138685"
+    },
+    {
+      "speaker": "agent",
+      "text": "Date of birth when you're ready.",
+      "timestamp": "2026-06-30T17:59:27.767126"
+    },
+    {
+      "speaker": "patient",
+      "text": "March 12, 1985. Oh, and by the way, is there a cancellation fee I should be aware of since I'm canceling my appointment?",
+      "timestamp": "2026-06-30T17:59:28.101710"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your name as Michael Brown, and your date of birth as 03/12/1985. Is that correct? If so, I'll check on your appointment and the cancellation policy. If not, please spell your first and last name for me.",
+      "timestamp": "2026-06-30T17:59:54.970666"
+    },
+    {
+      "speaker": "patient",
+      "text": "That's correct, yeah, Michael Brown, March 12th, 1985, that's all right. Go ahead and check on that appointment and the cancellation policy, please.",
+      "timestamp": "2026-06-30T17:59:55.486132"
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, just confirm your first and last name by spelling them out along with your date of birth.",
+      "timestamp": "2026-06-30T18:00:30.243813"
+    },
+    {
+      "speaker": "patient",
+      "text": "My first name is M-I-C-H-A-E-L, last name is B-R-O-W-N, and like I said, my date of birth is March 12th, 1985.",
+      "timestamp": "2026-06-30T18:00:30.580479"
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like I have your first name as Misha, last name Brown. Date of birth, 03/12/1985, and your phone number is (877) 642-9522. Is all of that correct?",
+      "timestamp": "2026-06-30T18:01:03.994712"
+    },
+    {
+      "speaker": "patient",
+      "text": "No, actually, my first name is Michael, not Misha, so, um, could you please correct that? And, yeah, the rest of the info, date of birth and phone number, that's all correct.",
+      "timestamp": "2026-06-30T18:01:04.608602"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't cancel your appointment right now. But I'll make sure our clinic support team follows up with you. Please hold while I document your request. Connecting you to a representative. Please wait.",
+      "timestamp": "2026-06-30T18:01:31.080788"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you anyway, goodbye",
+      "timestamp": "2026-06-30T18:01:31.509377"
+    }
+  ]
+}

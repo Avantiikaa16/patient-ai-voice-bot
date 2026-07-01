@@ -1,0 +1,95 @@
+{
+  "session_id": "call_06_urgent_symptom",
+  "call_sid": "CA0ad9a15b40b44e392a538e9087ab8429",
+  "scenario": {
+    "name": "urgent_symptom",
+    "persona": "Linda Thompson",
+    "goal": "Get guidance on a severe headache that has lasted 2 days",
+    "context": "Existing patient, headache started 2 days ago, over-the-counter meds not helping",
+    "personality": "Worried but calm, describes symptoms clearly",
+    "notes": "Rate the pain as 7 out of 10. Ask if you need to be seen today or can wait."
+  },
+  "start_time": "2026-06-30T18:08:59.661237",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah?",
+      "timestamp": "2026-06-30T18:09:12.575089"
+    },
+    {
+      "speaker": "patient",
+      "text": "No, actually, my name is Linda Thompson, and I'm an existing patient. I'm calling because I've had a pretty severe headache for the past two days, and I was hoping to get some guidance on what to do next.",
+      "timestamp": "2026-06-30T18:09:13.033716"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please provide your date of birth. Can you please tell me your date of birth? Are you still there?",
+      "timestamp": "2026-06-30T18:09:49.418880"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, yeah, I'm still here. Let me think for a sec... my date of birth is March 12, 1985.",
+      "timestamp": "2026-06-30T18:09:49.907554"
+    },
+    {
+      "speaker": "agent",
+      "text": "Know your date of birth when you're ready. No rush. Just let me know your date of birth when you're ready. Are you still there?",
+      "timestamp": "2026-06-30T18:10:21.182470"
+    },
+    {
+      "speaker": "patient",
+      "text": "I already told you, it's March 12, 1985. Anyway, can we talk about my headache now? It's been bothering me for two days and over-the-counter meds aren't helping.",
+      "timestamp": "2026-06-30T18:10:21.670865"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your name as Linda Thompson and your date of birth as 03/12/1985. Is that correct?",
+      "timestamp": "2026-06-30T18:10:46.918623"
+    },
+    {
+      "speaker": "patient",
+      "text": "That's correct. Now, about this headache... I'd say the pain is around a 7 out of 10, and like I said, it's been going on for two days. Should I come in to be seen today or can it wait?",
+      "timestamp": "2026-06-30T18:10:47.315472"
+    },
+    {
+      "speaker": "agent",
+      "text": "To help you further can you please provide the phone number you have on file with us? If you're not sure, just let me know, and I can confirm your name and date of birth again.",
+      "timestamp": "2026-06-30T18:11:10.844340"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, let me check... I think it's 555-1234, is that right? Can we please focus on my headache now, I'm getting a bit concerned about it.",
+      "timestamp": "2026-06-30T18:11:11.270927"
+    },
+    {
+      "speaker": "agent",
+      "text": "I have your phone number as 555-1234 and your date of birth as 03/12/1985. Is that correct?",
+      "timestamp": "2026-06-30T18:11:38.284036"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, that's correct. So, about my headache, I was wondering if I need to come in to see a doctor today or if it's something that can wait a bit?",
+      "timestamp": "2026-06-30T18:11:38.750879"
+    },
+    {
+      "speaker": "agent",
+      "text": "Connecting you to a representative. Please wait.",
+      "timestamp": "2026-06-30T18:11:56.360701"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you. I'll wait. Hopefully, someone can help me figure out what's going on with this headache.",
+      "timestamp": "2026-06-30T18:11:56.832137"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. You",
+      "timestamp": "2026-06-30T18:12:03.520659"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, I'm Linda Thompson. I was just speaking with someone about my headache, and I'm hoping you can help me. I've had a pretty bad one for two days now, and I'm not sure what to do.",
+      "timestamp": "2026-06-30T18:12:04.203100"
+    }
+  ]
+}

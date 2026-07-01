@@ -1,0 +1,45 @@
+{
+  "session_id": "call_11_cost_and_billing_question",
+  "call_sid": "CAe3f878df5f3bea11c244e46205de1b67",
+  "scenario": {
+    "name": "cost_and_billing_question",
+    "persona": "Kevin Patel",
+    "goal": "Find out the cost of a routine checkup without insurance",
+    "context": "Currently uninsured, needs to know the out-of-pocket cost before booking",
+    "personality": "Practical and cost-conscious, asks specific pricing questions",
+    "notes": "Ask for the self-pay price of a new patient visit. Ask if payment plans are available. Ask if there are any discounts for uninsured patients."
+  },
+  "start_time": "2026-06-30T18:26:53.568366",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good a Am I speaking with Sarah? Hello. Thanks for calling PivotPoint Orthopedics. Is this Sarah? How can I help you today?",
+      "timestamp": "2026-06-30T18:27:20.253189"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, no, I'm actually Kevin Patel. I'm calling to, um, inquire about the cost of a routine checkup, and I don't have insurance, so I was wondering if you could tell me the self-pay price for a new patient visit?",
+      "timestamp": "2026-06-30T18:27:20.632781"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for letting me know. Kevin, I don't have access to exact pricing details for visits. For the most accurate information about the cost of a routine checkup as a new patient without insurance, Our clinic support team can help. Would you like me to connect you to them now?",
+      "timestamp": "2026-06-30T18:27:56.869197"
+    },
+    {
+      "speaker": "patient",
+      "text": "That sounds great, yeah, I'd appreciate that. Can you, uh, transfer me to the clinic support team, please? I'd like to get a better idea of the costs involved before I book an appointment.",
+      "timestamp": "2026-06-30T18:27:57.306293"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye.",
+      "timestamp": "2026-06-30T18:28:15.691800"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you anyway, goodbye",
+      "timestamp": "2026-06-30T18:28:16.140369"
+    }
+  ]
+}

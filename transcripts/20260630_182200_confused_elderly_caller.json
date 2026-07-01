@@ -1,0 +1,125 @@
+{
+  "session_id": "call_10_confused_elderly_caller",
+  "call_sid": "CA954032c1d3c44b3e6ed9b2c4487f8861",
+  "scenario": {
+    "name": "confused_elderly_caller",
+    "persona": "Betty Garcia",
+    "goal": "Schedule an appointment but gives confusing information along the way",
+    "context": "Elderly patient who gets confused, mixes up dates and names",
+    "personality": "Sweet but confused, changes her mind mid-sentence, goes slightly off topic",
+    "notes": "Start asking for Tuesday, then correct yourself and say you meant Thursday. Mention your grandkids briefly before getting back on track. Test the agent's patience and ability to follow along."
+  },
+  "start_time": "2026-06-30T18:22:00.627437",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Part of Pretty Good a am I speaking with Sarah? Hello. Thanks for calling PivotPoint Orthopedics. Is this Sarah? How can I help you today?",
+      "timestamp": "2026-06-30T18:22:27.587389"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, no, I'm not Sarah, I'm Betty Garcia, and I'm calling to make an appointment, actually, I think I need to see the doctor on, let me think, Tuesday...",
+      "timestamp": "2026-06-30T18:22:28.001542"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for letting me know, Betty. Are you calling to make this appointment for yourself or for someone else?",
+      "timestamp": "2026-06-30T18:22:52.757482"
+    },
+    {
+      "speaker": "patient",
+      "text": "It's for myself, and, oh, wait, I just remembered, I meant Thursday, not Tuesday, um, I get those days mixed up sometimes, you know, my grandkids are always visiting on Thursdays...",
+      "timestamp": "2026-06-30T18:22:53.243272"
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem, Betty. You please tell me your full name and date of birth so I can look up your information?",
+      "timestamp": "2026-06-30T18:23:13.398936"
+    },
+    {
+      "speaker": "patient",
+      "text": "My name is Betty Jean Garcia, and, let me see... my birthday is, um, June 12th, 1947, I think, oh dear, I hope that's right, now, about that appointment on Thursday...",
+      "timestamp": "2026-06-30T18:23:13.845954"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your name as Betty Jean Garcia and your date of birth as 06/12/1947. Is that correct? If so, we can move forward. If not, could you please spell your full name and confirm your date of birth?",
+      "timestamp": "2026-06-30T18:23:45.036257"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct, dear, I'm sure of it, now, can we please schedule that appointment for Thursday, I'd like to see, um, which doctor was I supposed to see again, I had it written down somewhere...",
+      "timestamp": "2026-06-30T18:23:45.563257"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you, Betty. Let me check your chart and find your provider and available appointments for Thursday. One moment.",
+      "timestamp": "2026-06-30T18:24:05.940788"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you, dear, I'll wait, and, oh, I just thought of something, I hope my appointment isn't too early, I have to take my medication in the morning, you see...",
+      "timestamp": "2026-06-30T18:24:06.601038"
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand, Betty. I'll look for Thursday appointments later in the morning so you have time for your medication. Let me check what's available.",
+      "timestamp": "2026-06-30T18:24:27.953807"
+    },
+    {
+      "speaker": "patient",
+      "text": "That would be wonderful, thank you, now, let me think, what time was I thinking, oh yes, after 10 am would be perfect, I hope that's okay, and can you tell me what time the doctor can see me on Thursday?",
+      "timestamp": "2026-06-30T18:24:28.562709"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me check for Thursday appointments after 10AM with your doctor. One moment.",
+      "timestamp": "2026-06-30T18:24:50.971616"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, dear, take your time, I'm not in a hurry, oh, and I just remembered, my grandkids are coming over for dinner on Thursday, but that's later, around 5 pm, so anytime before that would be fine...",
+      "timestamp": "2026-06-30T18:24:51.438718"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for letting me know, buddy. I'll look for Thursday appointment appointments after 10AM and before 5PM. Let me find the available times for you.",
+      "timestamp": "2026-06-30T18:25:15.753323"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thank you, sweetie, you're very helpful, now, let me see... I think I'd like to schedule it for, um, 2 o'clock, no, wait, that's when my grandkids are coming, how about 11 am, would that work?",
+      "timestamp": "2026-06-30T18:25:16.364691"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me check if there's an opening at 11AM on Thursday for you. One moment.",
+      "timestamp": "2026-06-30T18:25:37.716082"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you, dear, I'll wait, and, oh, I hope that time works, I'd really like to get this appointment scheduled, yes, 11 am on Thursday would be just perfect...",
+      "timestamp": "2026-06-30T18:25:38.270654"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm if 11AM on Thursday is available for you, Betty. One moment.",
+      "timestamp": "2026-06-30T18:25:55.653007"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, dear, take your time, I'm still here, and, oh, I just wanted to confirm, you did say 11 am on Thursday, right, I don't want to get it mixed up again...",
+      "timestamp": "2026-06-30T18:25:56.204635"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, Betty. You asked for 11AM on Thursday. I'm checking if that time is available for your appointment.",
+      "timestamp": "2026-06-30T18:26:18.118172"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you, dear, I think that's all set then, so 11 am on Thursday it is, right, I can come in at 11 am, and, oh, thank you so much for your help, dear, goodbye!",
+      "timestamp": "2026-06-30T18:26:18.698145"
+    }
+  ]
+}

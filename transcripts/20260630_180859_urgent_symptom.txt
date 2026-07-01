@@ -1,0 +1,42 @@
+============================================================
+CALL TRANSCRIPT
+============================================================
+Date      : 2026-06-30 18:08:59
+Scenario  : urgent_symptom
+Patient   : Linda Thompson
+Goal      : Get guidance on a severe headache that has lasted 2 days
+Call SID  : CA0ad9a15b40b44e392a538e9087ab8429
+============================================================
+
+[AGENT  ]: This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah?
+
+[PATIENT]: No, actually, my name is Linda Thompson, and I'm an existing patient. I'm calling because I've had a pretty severe headache for the past two days, and I was hoping to get some guidance on what to do next.
+
+[AGENT  ]: Please provide your date of birth. Can you please tell me your date of birth? Are you still there?
+
+[PATIENT]: Um, yeah, I'm still here. Let me think for a sec... my date of birth is March 12, 1985.
+
+[AGENT  ]: Know your date of birth when you're ready. No rush. Just let me know your date of birth when you're ready. Are you still there?
+
+[PATIENT]: I already told you, it's March 12, 1985. Anyway, can we talk about my headache now? It's been bothering me for two days and over-the-counter meds aren't helping.
+
+[AGENT  ]: Just to confirm, I have your name as Linda Thompson and your date of birth as 03/12/1985. Is that correct?
+
+[PATIENT]: That's correct. Now, about this headache... I'd say the pain is around a 7 out of 10, and like I said, it's been going on for two days. Should I come in to be seen today or can it wait?
+
+[AGENT  ]: To help you further can you please provide the phone number you have on file with us? If you're not sure, just let me know, and I can confirm your name and date of birth again.
+
+[PATIENT]: Um, let me check... I think it's 555-1234, is that right? Can we please focus on my headache now, I'm getting a bit concerned about it.
+
+[AGENT  ]: I have your phone number as 555-1234 and your date of birth as 03/12/1985. Is that correct?
+
+[PATIENT]: Yeah, that's correct. So, about my headache, I was wondering if I need to come in to see a doctor today or if it's something that can wait a bit?
+
+[AGENT  ]: Connecting you to a representative. Please wait.
+
+[PATIENT]: Okay, thank you. I'll wait. Hopefully, someone can help me figure out what's going on with this headache.
+
+[AGENT  ]: Hello. You
+
+[PATIENT]: Hi, I'm Linda Thompson. I was just speaking with someone about my headache, and I'm hoping you can help me. I've had a pretty bad one for two days now, and I'm not sure what to do.
+

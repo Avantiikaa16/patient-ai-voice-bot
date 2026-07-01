@@ -1,0 +1,95 @@
+{
+  "session_id": "call_08_multiple_requests",
+  "call_sid": "CAfe640698484f7c9689aff4d42d71908a",
+  "scenario": {
+    "name": "multiple_requests",
+    "persona": "Patricia Davis",
+    "goal": "Request a medication refill AND schedule a follow-up appointment in the same call",
+    "context": "Busy patient trying to handle two things at once",
+    "personality": "Fast talker, jumps between topics, slightly scattered",
+    "notes": "Start with the refill request, then partway through say you also need to schedule an appointment. Test if the agent can track both requests."
+  },
+  "start_time": "2026-06-30T18:15:25.129081",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. Am I speaking with Sarah? Thanks for calling PivotPoint Orthopedics. Is this Sarah? How can I help you today?",
+      "timestamp": "2026-06-30T18:15:51.804260"
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I'm actually Patricia Davis, and I'm calling because I need a refill on my, um, medication - I think it's, let me check, yeah, it's my pain meds that I got from Dr. Smith. Can you help me with that?",
+      "timestamp": "2026-06-30T18:15:52.406393"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please provide the full name and date of birth of the patient who needs the medication refill. Can you please provide your full name and date of birth? Are you still there?",
+      "timestamp": "2026-06-30T18:16:35.656177"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, I'm still here. My name is Patricia Anne Davis, and my date of birth is, um, March 12, 1975. And, oh right, I also need to schedule a follow-up appointment with Dr. Smith, can we do that too?",
+      "timestamp": "2026-06-30T18:16:36.181197"
+    },
+    {
+      "speaker": "agent",
+      "text": "I need your full name, including your first and last name along with your date of birth. Could you please say both together?",
+      "timestamp": "2026-06-30T18:17:00.719722"
+    },
+    {
+      "speaker": "patient",
+      "text": "Patricia Anne Davis, born March 12, 1975 - and, actually, about that appointment, can you tell me what availability Dr. Smith has, like, in the next week or so?",
+      "timestamp": "2026-06-30T18:17:01.108619"
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?",
+      "timestamp": "2026-06-30T18:17:30.500801"
+    },
+    {
+      "speaker": "patient",
+      "text": "Let me think... I'm pretty sure my phone number is, um, 555-1234 - yeah, that's it. You can try looking me up with that, and while you're doing that, can you also check on Dr. Smith's schedule for me?",
+      "timestamp": "2026-06-30T18:17:30.956232"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'll need the full phone number you have on file to look up your record. Could you please provide all 10 digits?",
+      "timestamp": "2026-06-30T18:17:54.680580"
+    },
+    {
+      "speaker": "patient",
+      "text": "It's 555-123-4567, and, oh, I hope you can find my record quickly, I'm kind of in a rush to get my refill and schedule that appointment with Dr. Smith.",
+      "timestamp": "2026-06-30T18:17:55.108144"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with with you. Would you like me to connect you to our patient support team?",
+      "timestamp": "2026-06-30T18:18:20.760198"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, that sounds good, yeah, go ahead and connect me, I'd appreciate it, and just to confirm, they'll be able to help me with both my medication refill and scheduling that appointment with Dr. Smith, right?",
+      "timestamp": "2026-06-30T18:18:21.240165"
+    },
+    {
+      "speaker": "agent",
+      "text": "Connecting you to a representative. Please wait.",
+      "timestamp": "2026-06-30T18:18:38.896379"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thanks, I'll wait... hopefully this doesn't take too long, I've got a lot on my plate today.",
+      "timestamp": "2026-06-30T18:18:39.484128"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. You've reached the pretty",
+      "timestamp": "2026-06-30T18:18:47.217587"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, yeah, I was just speaking with someone else about getting a medication refill and scheduling a follow-up appointment with Dr. Smith, can you help me finalize all that?",
+      "timestamp": "2026-06-30T18:18:47.741335"
+    }
+  ]
+}

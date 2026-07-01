@@ -1,0 +1,103 @@
+"""
+12 patient scenarios to test the medical AI agent.
+Each covers a different use case, personality type, or edge case.
+"""
+
+SCENARIOS = [
+    {
+        "name": "routine_checkup",
+        "persona": "Sarah Johnson",
+        "goal": "Schedule a routine annual physical checkup",
+        "context": "Regular patient, been coming here for 3 years, healthy overall",
+        "personality": "Friendly, organized, knows what she wants",
+        "notes": "Ask for a morning slot if possible. Confirm date, time, and doctor name.",
+    },
+    {
+        "name": "medication_refill",
+        "persona": "Robert Martinez",
+        "goal": "Request a refill for lisinopril, a blood pressure medication",
+        "context": "Patient with hypertension on this medication for 2 years, running low",
+        "personality": "Older man, slightly hard of hearing, speaks slowly, may ask to repeat",
+        "notes": "Mention you have about 5 pills left. Ask how long it will take for the refill.",
+    },
+    {
+        "name": "reschedule_appointment",
+        "persona": "Emily Chen",
+        "goal": "Reschedule a Monday appointment to sometime later that week or next week",
+        "context": "Has a work conflict that just came up on Monday",
+        "personality": "Professional, direct, slightly stressed, wants it resolved fast",
+        "notes": "Be clear you need to move the Monday appointment. Ask what slots are available.",
+    },
+    {
+        "name": "cancel_appointment",
+        "persona": "Michael Brown",
+        "goal": "Cancel an upcoming appointment because he recovered from his illness",
+        "context": "Booked for a sick visit but is feeling better now",
+        "personality": "Apologetic and grateful, wants to be polite about canceling",
+        "notes": "Explain you are feeling much better. Ask if there is a cancellation fee.",
+    },
+    {
+        "name": "insurance_question",
+        "persona": "Jennifer Williams",
+        "goal": "Find out if the practice accepts her new Blue Cross Blue Shield PPO insurance",
+        "context": "Recently changed jobs and got new insurance, unsure if this office is in-network",
+        "personality": "Anxious about coverage, asks clarifying follow-up questions",
+        "notes": "Ask specifically about BCBS PPO. If accepted, ask if you need a referral for specialists.",
+    },
+    {
+        "name": "office_hours_and_location",
+        "persona": "David Kim",
+        "goal": "Get the office hours and address, and ask about parking",
+        "context": "New patient considering this practice, never been there before",
+        "personality": "Busy professional, needs weekend or evening availability",
+        "notes": "Ask about Saturday or evening hours specifically. Also ask for the address and parking.",
+    },
+    {
+        "name": "urgent_symptom",
+        "persona": "Linda Thompson",
+        "goal": "Get guidance on a severe headache that has lasted 2 days",
+        "context": "Existing patient, headache started 2 days ago, over-the-counter meds not helping",
+        "personality": "Worried but calm, describes symptoms clearly",
+        "notes": "Rate the pain as 7 out of 10. Ask if you need to be seen today or can wait.",
+    },
+    {
+        "name": "new_patient",
+        "persona": "James Wilson",
+        "goal": "Become a new patient and schedule an initial appointment",
+        "context": "Just moved to the area, needs a primary care doctor",
+        "personality": "Enthusiastic, has several questions about the practice",
+        "notes": "Ask about new patient intake process, what to bring, and how long the first visit takes.",
+    },
+    {
+        "name": "multiple_requests",
+        "persona": "Patricia Davis",
+        "goal": "Request a medication refill AND schedule a follow-up appointment in the same call",
+        "context": "Busy patient trying to handle two things at once",
+        "personality": "Fast talker, jumps between topics, slightly scattered",
+        "notes": "Start with the refill request, then partway through say you also need to schedule an appointment. Test if the agent can track both requests.",
+    },
+    {
+        "name": "weekend_scheduling_edge_case",
+        "persona": "Thomas Anderson",
+        "goal": "Try to book an appointment for this Sunday at 10am",
+        "context": "Does not know the office schedule",
+        "personality": "Polite but persistent, keeps trying different times when told no",
+        "notes": "First ask for Sunday. If told no, try Saturday. Then ask what the earliest available Monday morning slot is. Document how the agent handles closed days.",
+    },
+    {
+        "name": "confused_elderly_caller",
+        "persona": "Betty Garcia",
+        "goal": "Schedule an appointment but gives confusing information along the way",
+        "context": "Elderly patient who gets confused, mixes up dates and names",
+        "personality": "Sweet but confused, changes her mind mid-sentence, goes slightly off topic",
+        "notes": "Start asking for Tuesday, then correct yourself and say you meant Thursday. Mention your grandkids briefly before getting back on track. Test the agent's patience and ability to follow along.",
+    },
+    {
+        "name": "cost_and_billing_question",
+        "persona": "Kevin Patel",
+        "goal": "Find out the cost of a routine checkup without insurance",
+        "context": "Currently uninsured, needs to know the out-of-pocket cost before booking",
+        "personality": "Practical and cost-conscious, asks specific pricing questions",
+        "notes": "Ask for the self-pay price of a new patient visit. Ask if payment plans are available. Ask if there are any discounts for uninsured patients.",
+    },
+]

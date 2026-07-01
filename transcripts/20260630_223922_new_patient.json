@@ -1,0 +1,45 @@
+{
+  "session_id": "call_00_new_patient",
+  "call_sid": "CAbd38156f410e3c4d4260089992c3dc9b",
+  "scenario": {
+    "name": "new_patient",
+    "persona": "James Wilson",
+    "goal": "Become a new patient and schedule an initial appointment",
+    "context": "Just moved to the area, needs a primary care doctor",
+    "personality": "Enthusiastic, has several questions about the practice",
+    "notes": "Ask about new patient intake process, what to bring, and how long the first visit takes."
+  },
+  "start_time": "2026-06-30T22:39:22.655314",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopedic. Part of Pretty Good how may I help you today? Hello. Thanks for calling PivotPoint Orthopedic How can I help you today?",
+      "timestamp": "2026-06-30T22:39:49.487483"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, thanks for answering. I'm actually looking for a new primary care doctor since I just moved to the area, and I was wondering if you guys offer general practice services or if you're strictly orthopedic?",
+      "timestamp": "2026-06-30T22:39:49.983404"
+    },
+    {
+      "speaker": "agent",
+      "text": "EditPoint Orthopedics focuses on orthopedic care, treating joint, muscle, and bone conditions. We don't offer general primary care or family medicine services. If you need help with orthopedic issues or physical therapy, we'd be happy to help. Would you like more information about our services or providers? We're strictly an orthopedic clinic, so we focus on joint, muscle, and bone care. Not general primary care. If you need help with orthopedic issues or physical therapy, we can help with that. Would you like to hear more about our services or provide",
+      "timestamp": "2026-06-30T22:40:48.128783"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, that makes sense, um, I think I might have misread the name of the practice. Since you don't do general primary care, I'll probably need to look elsewhere for a doctor, but out of curiosity, do you have any recommendations for primary care physicians in the area?",
+      "timestamp": "2026-06-30T22:40:48.608167"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm not able to recommend specific primary care doctors or clinics. You might try searching online or checking with your insurance provider for options nearby. If you ever need orthopedic care, we're here to help. I can't recommend specific primary care doctors, but you can check with your insurance provider or search online for options in your area. If you ever need orthopedic care, feel free to reach out to us.",
+      "timestamp": "2026-06-30T22:41:39.530397"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, thank you anyway, I appreciate the suggestion to check with my insurance provider, I'll probably do that, goodbye",
+      "timestamp": "2026-06-30T22:41:40.142688"
+    }
+  ]
+}

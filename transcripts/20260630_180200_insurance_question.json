@@ -1,0 +1,85 @@
+{
+  "session_id": "call_04_insurance_question",
+  "call_sid": "CA5e6f56cb864c5933994a2cae4660993c",
+  "scenario": {
+    "name": "insurance_question",
+    "persona": "Jennifer Williams",
+    "goal": "Find out if the practice accepts her new Blue Cross Blue Shield PPO insurance",
+    "context": "Recently changed jobs and got new insurance, unsure if this office is in-network",
+    "personality": "Anxious about coverage, asks clarifying follow-up questions",
+    "notes": "Ask specifically about BCBS PPO. If accepted, ask if you need a referral for specialists."
+  },
+  "start_time": "2026-06-30T18:02:00.731743",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "This call may be recorded for quality and training purposes. Thanks for calling PivotPoint Orthopaedics. Or Pretty Good AI. Am I speaking with Sarah? Hello. Thanks for calling PivotPoint Orthopedics. Is this Sarah? How can I help you today? Are you still there?",
+      "timestamp": "2026-06-30T18:02:38.198157"
+    },
+    {
+      "speaker": "patient",
+      "text": "Um, no, I don't think I asked for Sarah, I just called the office. My name is Jennifer Williams, and I'm calling to, uh, check on insurance coverage. I recently got a new plan with Blue Cross Blue Shield, the PPO one, and I was wondering if you guys accept that?",
+      "timestamp": "2026-06-30T18:02:38.779818"
+    },
+    {
+      "speaker": "agent",
+      "text": "Can you please provide the date of birth for Jennifer Williams?",
+      "timestamp": "2026-06-30T18:03:04.058015"
+    },
+    {
+      "speaker": "patient",
+      "text": "Let me think for a sec... okay, my date of birth is, um, February 12th, 1985.",
+      "timestamp": "2026-06-30T18:03:04.547257"
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem. Let me know your date of birth when you're ready. Are you still there?",
+      "timestamp": "2026-06-30T18:03:33.799574"
+    },
+    {
+      "speaker": "patient",
+      "text": "I already told you, it's February 12th, 1985. Anyway, can we get back to my question about the Blue Cross Blue Shield PPO insurance? Do you guys accept that?",
+      "timestamp": "2026-06-30T18:03:34.286199"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, I have your name as Jennifer Williams, and your date of birth as 02/12/1985. Is that correct? I have your name as Jennifer Williams and your date of birth as 02/12/1985. Is that correct?",
+      "timestamp": "2026-06-30T18:04:17.401535"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct. Now, about my insurance question - does PivotPoint Orthopaedics accept Blue Cross Blue Shield PPO?",
+      "timestamp": "2026-06-30T18:04:17.833848"
+    },
+    {
+      "speaker": "agent",
+      "text": "Record using the phone number you have on file with us, If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again.",
+      "timestamp": "2026-06-30T18:04:39.383611"
+    },
+    {
+      "speaker": "patient",
+      "text": "Uh, I don't think that's necessary, I've already confirmed my name and date of birth. Can we please just focus on my insurance question? You know, about the Blue Cross Blue Shield PPO - do you guys take that?",
+      "timestamp": "2026-06-30T18:04:39.852540"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can't check insurance coverage right now because I'm unable to access your record. I'll connect you to our patient support team for help. Please stay on the line. Connecting you to a representative. Please wait.",
+      "timestamp": "2026-06-30T18:05:10.051927"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, I'll hold. Hopefully, they can help me figure out if you guys accept my new Blue Cross Blue Shield PPO insurance.",
+      "timestamp": "2026-06-30T18:05:11.073087"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. You've reached the pretty good",
+      "timestamp": "2026-06-30T18:05:19.511010"
+    },
+    {
+      "speaker": "patient",
+      "text": "I was just transferred here from the other line. I'm Jennifer Williams, and I'm trying to find out if PivotPoint Orthopaedics accepts Blue Cross Blue Shield PPO insurance. Can you help me with that?",
+      "timestamp": "2026-06-30T18:05:20.487643"
+    }
+  ]
+}
