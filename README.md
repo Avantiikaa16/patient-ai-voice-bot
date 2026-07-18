@@ -4,6 +4,15 @@ An automated voice bot that calls a medical office AI agent and simulates realis
 
 ---
 
+## Video Walkthroughs
+
+| Video | Link |
+|---|---|
+| Walkthrough: Building a Medical Voice Bot (5 min) | [Watch on Loom](https://www.loom.com/share/9dc7525d947f4b0592113ea59556ebbc) |
+| AI-Assisted Debugging: Premature Patient Bot Hangups (5 min) | [Watch on Loom](https://www.loom.com/share/00c516ab539d49ffb2326ff745245847) |
+
+---
+
 ## Architecture
 
 The bot uses **Twilio** to place outbound phone calls and stream real-time audio over a WebSocket (Twilio Media Streams). A **FastAPI** server receives that audio and forwards it to **Deepgram** for live speech-to-text transcription. When the agent finishes a sentence, the transcript is sent to **Groq (Llama 3.3 70B)** which generates a realistic patient response in character. That response is converted back to voice using **Deepgram Aura TTS** (mulaw 8kHz — exactly what Twilio expects) and streamed back to the call in real-time.
