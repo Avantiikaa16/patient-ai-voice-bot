@@ -1,4 +1,4 @@
-# Voice Patient Bot
+# Patient Voice Bot
 
 An automated voice bot that calls a medical office AI agent and simulates realistic patient conversations to find bugs and quality issues.
 
