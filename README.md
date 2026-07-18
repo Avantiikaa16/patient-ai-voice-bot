@@ -50,7 +50,7 @@ TWILIO_PHONE_NUMBER=+1XXXXXXXXXX
 DEEPGRAM_API_KEY=your_deepgram_key
 GROQ_API_KEY=your_groq_key
 NGROK_AUTH_TOKEN=your_ngrok_token
-TARGET_NUMBER=+1XXXXXXXXXX        ← your own phone for testing, +18054398008 for submission
+TARGET_NUMBER=+1XXXXXXXXXX        ← your own phone for testing
 PORT=8000
 ```
 
